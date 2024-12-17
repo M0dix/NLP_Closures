@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NLP_Closures/1.0.0": {
+        "runtime": {
+          "NLP_Closures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NLP_Closures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\yufin\source\repos\NLP\NLP_Closures\bin\Debug\net8.0\NLP_Closures.exe
+C:\Users\yufin\source\repos\NLP\NLP_Closures\bin\Debug\net8.0\NLP_Closures.deps.json
+C:\Users\yufin\source\repos\NLP\NLP_Closures\bin\Debug\net8.0\NLP_Closures.runtimeconfig.json
+C:\Users\yufin\source\repos\NLP\NLP_Closures\bin\Debug\net8.0\NLP_Closures.dll
+C:\Users\yufin\source\repos\NLP\NLP_Closures\bin\Debug\net8.0\NLP_Closures.pdb
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.AssemblyInfoInputs.cache
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.AssemblyInfo.cs
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.csproj.CoreCompileInputs.cache
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.dll
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\refint\NLP_Closures.dll
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.pdb
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\NLP_Closures.genruntimeconfig.cache
+C:\Users\yufin\source\repos\NLP\NLP_Closures\obj\Debug\net8.0\ref\NLP_Closures.dll
